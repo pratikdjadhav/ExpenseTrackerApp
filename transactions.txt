@@ -1,0 +1,2 @@
+1|2025-07-13|Income|1000.0|Salary|Freelance payment
+2|2025-07-13|Expense|450.0|Food|Lunch
