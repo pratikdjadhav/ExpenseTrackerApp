@@ -1,6 +1,6 @@
 ---
 
-## 📄 Final `README.md` for Your Expense Tracker App
+## 📄 `README.md`
 
 ---
 
@@ -14,7 +14,7 @@ This app allows users to record transactions, view history, check balance summar
 
 ## 📸 Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](./screenshot.png)
 
 ---
 
