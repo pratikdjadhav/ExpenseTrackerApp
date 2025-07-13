@@ -14,7 +14,7 @@ This app allows users to record transactions, view history, check balance summar
 
 ## 📸 Screenshot
 
-![Files](screenshot.png)
+![Files](./screenshot.png)
 
 ---
 
